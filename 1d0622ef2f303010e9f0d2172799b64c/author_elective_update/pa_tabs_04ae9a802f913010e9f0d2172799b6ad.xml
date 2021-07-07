@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="DELETE">
+        <canvas_page/>
+        <name>NeedIt Application - New Tab 2</name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-07 14:23:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>04ae9a802f913010e9f0d2172799b6ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Application - New Tab 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish List Two" source="x_651903_wish_lis2">1d0622ef2f303010e9f0d2172799b64c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List Two">1d0622ef2f303010e9f0d2172799b64c</sys_scope>
+        <sys_update_name>pa_tabs_04ae9a802f913010e9f0d2172799b6ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-07 14:23:26</sys_updated_on>
+    </pa_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List Two">1d0622ef2f303010e9f0d2172799b64c</application>
+        <file_path/>
+        <instance_id>2983ec48dbfec41491232f17d496198f</instance_id>
+        <instance_name>dev98721</instance_name>
+        <name>pa_tabs_04ae9a802f913010e9f0d2172799b6ad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page/><name>NeedIt Application - New Tab 2</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-07 14:23:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>04ae9a802f913010e9f0d2172799b6ad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Application - New Tab 2</sys_name><sys_overrides/><sys_package display_value="Wish List Two" source="x_651903_wish_lis2">1d0622ef2f303010e9f0d2172799b64c</sys_package><sys_policy/><sys_scope display_value="Wish List Two">1d0622ef2f303010e9f0d2172799b64c</sys_scope><sys_update_name>pa_tabs_04ae9a802f913010e9f0d2172799b6ad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-07 14:23:26</sys_updated_on></pa_tabs></record_update>]]></payload>
+        <payload_hash>-2140931153</payload_hash>
+        <record_name>NeedIt Application - New Tab 2</record_name>
+        <reverted_from/>
+        <source>ab3e7a632fb03010e9f0d2172799b6c8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-07 14:24:08</sys_created_on>
+        <sys_id>96ce9e802f913010e9f0d2172799b6b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a815acab60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-07 14:24:08</sys_updated_on>
+        <type>Tab</type>
+        <update_guid>c4ae9a807a913010d7e629a55ed50fae</update_guid>
+        <update_guid_history>c4ae9a807a913010d7e629a55ed50fae:2096327031,c4ae9a807a913010d7e629a55ed50fae:2096327031,c4ae9a807a913010d7e629a55ed50fae:2096327031</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt Application - New Tab 2">dece9e802f913010e9f0d2172799b6b9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-07 14:24:09</sys_created_on>
+        <sys_db_object display_value="" name="pa_tabs">pa_tabs</sys_db_object>
+        <sys_id>1d8a7dcec3d0476a913a4724e64f2899</sys_id>
+        <sys_metadata>04ae9a802f913010e9f0d2172799b6ad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Application - New Tab 2</sys_name>
+        <sys_package display_value="Wish List Two" source="x_651903_wish_lis2">1d0622ef2f303010e9f0d2172799b64c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wish List Two">1d0622ef2f303010e9f0d2172799b64c</sys_scope>
+        <sys_scope_delete display_value="">012b940ee7354b1c815f95796ff49941</sys_scope_delete>
+        <sys_update_name>pa_tabs_04ae9a802f913010e9f0d2172799b6ad</sys_update_name>
+        <sys_update_version display_value="pa_tabs_04ae9a802f913010e9f0d2172799b6ad">96ce9e802f913010e9f0d2172799b6b4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-07 14:24:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

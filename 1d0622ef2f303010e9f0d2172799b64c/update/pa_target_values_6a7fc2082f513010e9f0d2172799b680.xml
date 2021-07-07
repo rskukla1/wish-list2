@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_target_values">
+    <pa_target_values action="INSERT_OR_UPDATE">
+        <sys_class_name>pa_target_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-07 13:17:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6a7fc2082f513010e9f0d2172799b680</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>2000</sys_name>
+        <sys_package display_value="Wish List Two" source="x_651903_wish_lis2">1d0622ef2f303010e9f0d2172799b64c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List Two">1d0622ef2f303010e9f0d2172799b64c</sys_scope>
+        <sys_update_name>pa_target_values_6a7fc2082f513010e9f0d2172799b680</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-07 13:17:35</sys_updated_on>
+        <target display_value="NeedIt: Active Weekly">a27fc2082f513010e9f0d2172799b67e</target>
+        <target_at>20210503</target_at>
+        <target_review>00000000</target_review>
+        <value>2000</value>
+    </pa_target_values>
+</record_update>
